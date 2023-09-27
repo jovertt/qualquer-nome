@@ -1,7 +1,7 @@
 # qualquer-nome
 <html>
   <head>
-    <title>PRIMEIRO SITE DO 1B</title>
+    <title>welcome stranger</title>
   </head>
   <body>
     <p>Esta funcionando</p>
